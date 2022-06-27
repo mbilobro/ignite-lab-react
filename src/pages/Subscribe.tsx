@@ -66,12 +66,11 @@ export function Subscribe () {
                 </div>
             </div>
 
-            <img 
-                src="/src/assets/code-mockup.png" 
-                alt="Imagem de Mockup de Código no Visual Studio Code" 
-                className="mt-10" 
+            <img
+                src="/src/assets/code-mockup.png"
+                alt="Imagem de Mockup de Código no Visual Studio Code"
+                className="mt-10"
             />
-
         </div>
     );
 }
