@@ -69,7 +69,8 @@ export function Subscribe () {
             <img 
             src="/src/assets/code-mockup.png" 
             alt="Imagem de Mockup de Código no Visual Studio Code" 
-            className="mt=10 " />
+            className="mt=10" 
+            />
 
         </div>
     );
