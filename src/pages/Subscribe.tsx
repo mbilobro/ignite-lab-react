@@ -67,7 +67,7 @@ export function Subscribe () {
             </div>
 
             <img
-                src={`/src/assets/code-mockup.png`}
+                src={`https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/629f88dc97a53624a1b5c110_aplication-ignitelabs%20(1).png`}
                 alt="Imagem de Mockup de Código no Visual Studio Code"
                 className="mt-10"
             />
