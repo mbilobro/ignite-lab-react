@@ -67,7 +67,7 @@ export function Subscribe () {
             </div>
 
             <img
-                src="/src/assets/code-mockup.png"
+                src={"/src/assets/code-mockup.png"}
                 alt="Imagem de Mockup de Código no Visual Studio Code"
                 className="mt-10"
             />
